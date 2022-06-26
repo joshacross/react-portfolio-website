@@ -33,18 +33,10 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          Joshua Cross is an aspiring tech enthusiast, digital marketer, and content producer in Nashville, TN. He has assisted in building two 7-figure eCommerce companies (The SalesMentor, LLC, The Cash-Flow Specialist) from the ground up, edited and filmed winning ad-creatives that generated hundreds of thousands of dollars in monthly gross revenue, and helped over 10,000+ people get jobs in one of the most significant economic downturns in history.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
-          </p>
-          <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          Throughout Joshua's professional career, he has worked with industry leading companies all over the U.S., including Music Business Association, NSAI, Brainfarm Cinema, Wolvvs Entertainment, Red Bull Media House, Highmark Health, S.C. Johnson, Starkist, H.G. Heinz, Music Business Association, USA Today, and Microsoft. He received a Bachelors of Business Administration from Belmont University’s Massey School of Business, Full-Stack Javascript Web Development Certificate from Vanderbilt Owen's Graduate School of Business and Computer Engineering, and won numerous awards for entrepreneurship and academic excellence.
           </p>
         </div>
 
